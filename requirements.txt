@@ -1,0 +1,6 @@
+python-binance 
+python-dotenv
+Generate HMAC-SHA-256 Key
+API Key: YvdV42t1WNfbYZ9SbMuXYI22Z6QbEElQJX0BCepZYlRqf4VwORnKjvIzsUdN5jWq
+
+Secret Key: Sdz4wtW9rLsZ1fv2peME0ujNlVx4AoplYVN6P6441fRSvaCr5IfyhDQ0nijqaHqz
